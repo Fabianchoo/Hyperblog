@@ -1,6 +1,6 @@
 body
 {
-    color: rgba(241, 100, 100, 0.041);
+    color: black;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -13,7 +13,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid cornsilk;
+    border: 1px solid rgb(121, 97, 1);
     margin: 0 auto;
 }
 
